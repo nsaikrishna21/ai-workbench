@@ -5,14 +5,14 @@
 To create a virtual environment in Windows, navigate to your project directory and run the following command:
 
 ```bash
-python -m venv.venv
+py -m venv.venv
 ```
 
 This will create a new virtual environment named `.venv` in your project directory.
 
 ### Activating the Virtual Environment
 
-To activate the virtual environment, run the following command:
+To activate the virtual environment, run the following command: basically copy the relativ path append .\ before it 
 
 ```bash
 ..venv\Scripts\activate
